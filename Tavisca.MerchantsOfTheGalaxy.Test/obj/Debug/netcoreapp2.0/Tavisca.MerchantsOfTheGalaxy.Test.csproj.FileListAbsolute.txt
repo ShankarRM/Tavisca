@@ -1,0 +1,17 @@
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.deps.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.runtimeconfig.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.runtimeconfig.dev.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.pdb
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.pdb
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.csproj.CoreCompileInputs.cache
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.AssemblyInfoInputs.cache
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.AssemblyInfo.cs
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.csproj.CopyComplete
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.pdb
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy.Test\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.deps.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.runtimeconfig.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.runtimeconfig.dev.json
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\bin\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.pdb
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.csproj.CoreCompileInputs.cache
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.AssemblyInfoInputs.cache
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.AssemblyInfo.cs
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.dll
+G:\Tavisca\Tavisca.MerchantsOfTheGalaxy\Tavisca.MerchantsOfTheGalaxy\obj\Debug\netcoreapp2.0\Tavisca.MerchantsOfTheGalaxy.pdb
